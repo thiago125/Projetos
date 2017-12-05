@@ -1,0 +1,20 @@
+@charset "utf-8";
+/*CSS Document*/
+
+h1{
+ color:blue;
+ text-align: center;
+}
+
+body{
+ border-style: double;
+ border-radius: 15px;
+ border-color: blue;
+ background-color: lightblue;
+ margin:1px;	
+}
+
+img{
+ height: 250px;
+ width: 250px;	
+}

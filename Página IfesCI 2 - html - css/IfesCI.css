@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+ color: white;
+ text-decoration: underline;
+ text-align: center;
+ background-color: green;
+ }
+
+ h2{
+  color: blue;
+  text-decoration: underline;
+  text-align: left;	
+ }
+
+h5{
+ color: grey;
+ text-decoration: underline;
+ font-size: 15px;	
+}
+
+p{
+ color: green;
+ font-family: arial;
+ font-size: 16px;
+ margin-left: 20px;
+ padding: 20px;
+ text-align: justify;	
+}
+
+body{
+ border-style: double;
+ border-radius: 15px;
+ border-color: blue;
+ background-color: lightblue;
+ margin: 2px;	
+}
+
+img{
+ width: 200px;
+ border-radius: 15px;	
+}

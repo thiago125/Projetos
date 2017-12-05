@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+h1{
+  color: blue;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 22px; 
+}
+
+h2{
+  color: red;
+  text-decoration: underline;
+  text-align: left;
+  font-size: 20px;
+}
+
+p{
+ color: green; 
+ font-family: Times new roman;
+ font-size: 22px;
+ margin-left: 20px;
+ padding: 20px;
+}
+
+body{
+ border-style: double;
+ border-radius: 15px;
+ border-color: blue; 
+ background-color: lightblue;
+ margin: 1px; 	
+}
+
+img{
+ border-style: groove;
+ border-radius: 15px;
+ border-color: black;
+ background-color: lightblue;
+ margin: 2px;	
+}
